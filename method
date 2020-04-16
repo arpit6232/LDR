@@ -1,0 +1,7 @@
+1) Create a Lidar object in the main in environment.cpp
+-> Simulated Lidar Rays 
+
+2) Adding Noise to the Lidar data (increasing Variane), 
+-> Rendering scene to false to only see point cloud data. 
+
+3) 
