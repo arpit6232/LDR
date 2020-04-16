@@ -20,8 +20,9 @@ In this course we will be talking about sensor fusion, whch is the process of ta
 ```bash
 $> sudo apt install libpcl-dev
 $> cd ~
-$> git clone https://github.com/udacity/SFND_Lidar_Obstacle_Detection.git
-$> cd SFND_Lidar_Obstacle_Detection
+$> git clone https://github.com/arpit6232/LDR.git
+$> cd LDR
+$> #If there already exists a build folder delete the folder and continue
 $> mkdir build && cd build
 $> cmake ..
 $> make
